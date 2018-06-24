@@ -9,7 +9,7 @@ Technologies Used:
 
 (1) Web Services
 PHP
-Google Geocoder API
+Google Maps - Geocoder API
 WTIA REST API
 
 (2) Hosting

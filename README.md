@@ -8,7 +8,7 @@ To access my demo ---> [<a href="http://geekresearchlab.net/NASA/iss/test_live_t
 Technologies Used:
 
 (1) Web Services
-PHP
+PHP (with OpenSSL enabled)
 Google Maps - Geocoder API
 WTIA REST API
 

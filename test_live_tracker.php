@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(0);
+
 $iss_satellite_id="25544";
 $locate_link = "https://api.wheretheiss.at/v1/satellites/";
 $iss = $locate_link.$iss_satellite_id;

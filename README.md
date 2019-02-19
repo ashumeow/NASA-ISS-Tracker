@@ -13,8 +13,8 @@ Google Maps - Geocoder API
 WTIA REST API
 
 (2) Hosting
-(a) Local: IIS
-(b) Remote: 3rd party web domain/hosting
+(a) Local: IIS (for local testing)
+(b) Remote: 3rd party web domain/hosting (for real-time)
 ```
 
 ```
